@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(#97E8FC, #9198e5);
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.wrapper {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+div.container {
+	overflow: hidden;
+	width: 100%;
+}
+
+.left-block {
+    width: 70%;
+    float:left;
+}
+
+.right-block {
+    width: 30%;
+    float: right;
+}
+
+.first-paragraph {
+    margin-top: 0;
+}
